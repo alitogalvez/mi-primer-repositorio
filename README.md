@@ -1,4 +1,4 @@
-# mi-primer-repositorio
+# mi primer repositorio alito
 primer repositorio creado en GitHub
 
 ## descripcion
